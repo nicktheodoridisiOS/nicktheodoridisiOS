@@ -12,7 +12,3 @@ I am Computer Engineer and I develop iOS mobile and desktop applicatios.
 ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
 
-## 🪴 Find Me:
-<a href="https://twitter.com/nickiOSDev" target="_blank" class="profile__social-link">
-  <p>Nick</p>
-</a>
