@@ -1,8 +1,9 @@
 # Hi, I'm Nick 👋🏼
 
-I am Computer Engineer and I develop iOS mobile and desktop applicatios.
+## About Me
+I am iOS Developer and I develop iOS mobile applications.
 
-## 🛠️ Tools
+## Skills
 
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![xCode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=XCode&logoColor=white)
