@@ -1,9 +1,9 @@
-# Hi, I'm Nick 👋🏼
 
-## 🪴 About Me
-I am 21 years old iOS developer from Greece. I am currently studying<br>
-at International Hellenic University of Greece and I specialise on iOS<br> 
-mobile applications.
+![Cover](https://media.licdn.com/dms/image/D4D16AQEt-2vDpDBO3A/profile-displaybackgroundimage-shrink_350_1400/0/1683913192120?e=1689206400&v=beta&t=evEvdK6CnfN17eLFjGBX5j2tOTPR86aORvrFXvOHQGo)
+
+# Hi, I'm Nick 👋🏼
+I am 21 years old iOS developer from Greece. I am currently studying at International Hellenic University of Greece  <br>
+and I specialise on iOS mobile applications.
 
 ## 🔨 Tool Stack
 
