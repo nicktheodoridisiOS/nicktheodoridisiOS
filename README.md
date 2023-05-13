@@ -5,7 +5,7 @@ I am 21 years old iOS developer from Greece. I am currently studying<br>
 at International Hellenic University of Greece and I specialise on iOS<br> 
 mobile applications.
 
-## 🔨 Skills & Tools
+## 🔨 Tool Stack
 
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![xCode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=XCode&logoColor=white)
