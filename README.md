@@ -1,6 +1,3 @@
-
-![Cover](https://media.licdn.com/dms/image/D4D16AQEt-2vDpDBO3A/profile-displaybackgroundimage-shrink_350_1400/0/1683913192120?e=1689206400&v=beta&t=evEvdK6CnfN17eLFjGBX5j2tOTPR86aORvrFXvOHQGo)
-
 <div align = center>
   <h3>Hi, I'm Nick 👋</h3>
   <br>
