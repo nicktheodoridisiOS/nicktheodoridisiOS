@@ -24,7 +24,7 @@ me.exploreMyAccount()
 
 ## Socials
 
-Also you can find me and my work on:
+Also you can find my work on:
 
 - Twitter: [Link Here](https://twitter.com/nickiOSDev)
 - Instagram: [Link Here](https://www.instagram.com/nickmadethisone/)
