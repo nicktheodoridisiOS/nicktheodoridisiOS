@@ -6,9 +6,8 @@ struct Developer {
 
   let firstName = "Nick"
   let lastName = "Theodoridis"
-  let pronouns = "he/him/his"
-  let age = 22
   let role = "iOS Developer"
+  let age = 22
   let location = "Greece 🇬🇷"
   let languages = ["el_GR", "en_US"]
   let skills = ["Swift", "Flutter"]
