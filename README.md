@@ -1,4 +1,4 @@
-# Hi👋
+# Hi 👋
 
 
 ```swift
@@ -21,11 +21,3 @@ struct Developer {
 let me = Developer()
 me.exploreMyAccount()
 ```
-
-## Socials
-
-Also you can find my work on:
-
-- Twitter: [Link Here](https://twitter.com/nickiOSDev)
-- Instagram: [Link Here](https://www.instagram.com/nickmadethisone/)
-- LinkedIn: [Link Here](https://www.linkedin.com/in/nick-theodoridis-75097a266/)
