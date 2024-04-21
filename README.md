@@ -1,7 +1,4 @@
 ### aboutme.swift
-
-> Write a Swift struct that serves as a template for a personal biography. This struct should encapsulate personal details and include a method to display a formatted biography. The details should be set upon initialization and should be read-only from outside the struct.
-
 ```swift
 struct Developer {
 
