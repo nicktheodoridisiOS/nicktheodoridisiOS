@@ -9,7 +9,7 @@ struct Developer {
   let location = "Greece 🇬🇷"
   let languages = ["el_GR", "en_US"]
   let skills = ["Swift", "Flutter"]
-  let tools = ["Figma","Xcode","Postman","Github","Notion"]
+  let tools = ["Figma","Xcode","Postman","GitΗub","Notion"]
   
   func exploreMyAccount() {
     print("Hey, thanks for visiting, feel free to explore my work!")
